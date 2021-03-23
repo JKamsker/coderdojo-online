@@ -5,7 +5,7 @@ workshops:
     title: Elektronikbasteln
     targetAudience: ab 10, etwas Programmiererfahrung notwendig
     description: |
-      Y1233 Wir programmieren den ESP8266 D1 mini mit der Arduino IDE Software. Es werden die Sensordaten einfach über das WLAN und das Internet austauschen.
+      Wir programmieren den ESP8266 D1 mini mit der Arduino IDE Software. Es werden die Sensordaten einfach über das WLAN und das Internet austauschen.
 
       Einstieg auch ohne Hardware möglich. Voraussetzung ist die installierte Arduino IDE, geringe Programmierkenntnisse und keine Angst vorm Tippen und vorm Fragenstellen.
     prerequisites: |
@@ -50,7 +50,7 @@ workshops:
     title: Docker Workshop
     targetAudience: ab 14 Jahren, Programmiererfahrung notwendig 
     description: |
-      In diesem Workshop, setzen wir eine Web-API und einen Reverse Proxy auf. Nachdem wir das ganze händisch einmal probiert haben, werden wir das gleiche mit Docker aufsetzen um zu sehen wie sehr uns das Arbeiten mit Containern das Leben leichter machen kann. Außerdem werden wir uns eine Domäne registrieren und Zertifikate mit Let's encrypt erstellen.
+      Hanlo, i bims, eins jomas
     prerequisites: |
       - Vorkenntnisse über Programmieren notwendig
       - Putty oder ein gleichwertiges Tool für SSH Verbindungen
