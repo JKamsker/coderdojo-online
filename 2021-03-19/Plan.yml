@@ -5,7 +5,7 @@ workshops:
     title: Elektronikbasteln
     targetAudience: ab 10, etwas Programmiererfahrung notwendig
     description: |
-      Wir programmieren den ESP8266 D1 mini mit der Arduino IDE Software. Es werden die Sensordaten einfach über das WLAN und das Internet austauschen.
+      YWir programmieren den ESP8266 D1 mini mit der Arduino IDE Software. Es werden die Sensordaten einfach über das WLAN und das Internet austauschen.
 
       Einstieg auch ohne Hardware möglich. Voraussetzung ist die installierte Arduino IDE, geringe Programmierkenntnisse und keine Angst vorm Tippen und vorm Fragenstellen.
     prerequisites: |
