@@ -1,6 +1,6 @@
 workshops:
   - begintime: 15:00
-    endtime: 18:00
+    endtime: 17:00
     status: Scheduled
     title: Elektronikbasteln
     targetAudience: ab 10, etwas Programmiererfahrung notwendig
