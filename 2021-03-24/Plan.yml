@@ -1,0 +1,14 @@
+workshops:
+  - begintime: 23:35
+    endtime: 11:00
+    status: Scheduled
+    title: CSS
+    targetAudience: ab 10, etwas Programmiererfahrung notwendig
+    description: |
+      Hanlo, i bims ans dest
+    prerequisites: |
+      - Etwas Erfahrung mit der Arduino IDE
+      - Ein wenig Programmiererfahrung, keine Angst vorm Tippen 😅
+    mentors:
+      - Günther
+    shortCode: Elektronikbasteln
