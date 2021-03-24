@@ -1,11 +1,11 @@
 workshops:
-  - begintime: 23:35
+  - begintime: 23:37
     endtime: 11:00
     status: Scheduled
     title: CSS
     targetAudience: ab 10, etwas Programmiererfahrung notwendig
     description: |
-      Hanlo, i bims ans dest
+      Hanlo, i bims ans dest 2
     prerequisites: |
       - Etwas Erfahrung mit der Arduino IDE
       - Ein wenig Programmiererfahrung, keine Angst vorm Tippen 😅
