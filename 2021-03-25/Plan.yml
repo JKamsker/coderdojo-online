@@ -1,0 +1,13 @@
+workshops:
+  - begintime: 12:37
+    endtime: 14:00
+    status: Scheduled
+    title: CsA
+    targetAudience: ab 10, etwas Programmiererfahrung notwendig
+    description: |
+      Huhu :) Zoom should be cool now :P
+    prerequisites: |
+      - Sachen tuten
+    mentors:
+      - Jonas
+    shortCode: CoolCs
