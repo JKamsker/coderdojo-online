@@ -1,6 +1,6 @@
 workshops:
-  - begintime: 13:00
-    endtime: 16:00
+  - begintime: 04:00
+    endtime: 11:00
     status: Scheduled
     title: CSS
     targetAudience: ab 10, etwas Programmiererfahrung notwendig
