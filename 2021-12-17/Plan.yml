@@ -51,11 +51,11 @@ workshops:
     endtime: 19:00
     status: Scheduled
     title: Microcontroller-Emulator (Teigl 1)ss
-    targetAudience: ab ca. 12 Jahren, Programmiererfahrung notwendig
+    targetAudience: ab ca.s 12 Jahren, Programmiererfahrung notwendig
     description: |
       In dieser Workshopserie sehen wir uns an, wie [Microcontroller](https://de.wikipedia.org/wiki/Mikrocontroller) funktionieren und wie sie mit der [Assemblersprache](https://de.wikipedia.org/wiki/Assemblersprache) programmiert werden. Als konkretes Beispiel bauen wir im Browser einen Emulator für den [ULP (Ultra Low Power) Coprozessor](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/api-guides/ulp.html) des [ESP32](https://www.espressif.com/en/products/socs/esp32). Dieser Coprozessor eignet sich ideal für den Einstieg in die Welt der Assemblerprogrammierung, weil er sehr einfach aufgebaut ist und einen stark reduzierten [Befehlssatz](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/api-guides/ulp_instruction_set.html) besitzt.
       Dieses Mal werden wir ...
-      - uns ansehen wie Microcontroller aufgebaut sind
+      - uns ansehen wie ssMicrocontroller aufgebaut sind
       - eine grafische Benutzeroberfläche für den Emulator bauen
     prerequisites: |
       - etwas Programmiererfahrung mit HTML, CSS und JavaScript
