@@ -1,0 +1,26 @@
+name: Build and Test GitHub actions
+
+on:
+  push:
+    branches:
+    - master
+    # - release/*
+    # - dev
+  # pull_request:
+  #   branches:
+  #   - dev
+
+jobs:
+  build_and_test:
+    name: Build and test the GitHub Action
+    runs-on: 'ubuntu-latest'
+    steps:
+    - name: Checkout the repository
+      uses: actions/checkout@v2
+
+    - id: files
+      uses: jitterbit/get-changed-files@v1
+    - run: |
+        for changed_file in ${{ steps.files.outputs.all }}; do
+          echo "Do something with this ${changed_file}."
+        done
