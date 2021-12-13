@@ -17,7 +17,7 @@ workshops:
   - begintime: 15:00
     endtime: 17:00
     status: Scheduled
-    title: "GearsBot 🤖 - künstliche Intelligenz für deinen virtuellen Roboter"
+    title: "GearsBoxt 🤖 - künstliche Intelligenz für deinen virtuellen Roboter"
     targetAudience: ab 10 Jahren, etwas Erfahrung mit Scratch oder Programmiersprachen
     description: |
       Hast du dich schon mal gefragt, wie Autos selbständig fahren können? Dahinter steckt etwas, das sich *künstliche Intelligenz* nennt. In diesem Workshop kannst du spielerisch lernen, einem virtuellen Roboter das Herumfahren beizubringen. Die Programmierung erfolgt mit einer Scratch-ähnlichen Blockprogrammiersprache ([GearsBot](https://gears.aposteriori.com.sg/)). Zum Mitmachen brauchst du nur einen Internetbrowser (idealerweise Chrome).
