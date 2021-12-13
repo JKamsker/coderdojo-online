@@ -58,7 +58,7 @@ workshops:
       - uns ansehen wie ssMicrocontroller aufgebaut sind
       - eine grafische Benutzeroberfläche für den Emulator bauen
     prerequisites: |
-      - etwas Programmiererfahrung mit HTML, CSS und JavaScript
+      - etwas Programmierderfahrung mit HTML, CSS und JavaScript
       - Interesse an Computerhardware
     mentors:
       - ThomasXsss
