@@ -24,3 +24,10 @@ jobs:
         for changed_file in ${{ steps.files.outputs.all }}; do
           echo "Do something with this ${changed_file}. "
         done
+    - name: Do nothing LOL
+      id: DoNothingLOL
+      uses: JKamsker/CDW-Builder-Action/releases/tag/v0.0.1-alpha
+      env:
+        GREETINGS: 'Hello, .NET developers! LOL'
+      with:
+        files: ${{ steps.files.outputs.all }}
