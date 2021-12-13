@@ -26,7 +26,7 @@ jobs:
         done
     - name: Do nothing LOL
       id: DoNothingLOL
-      uses: JKamsker/CDW-Builder-Action@main
+      uses: JKamsker/CDW-Builder-Action@master
       env:
         GREETINGS: 'Hello, .NET developers! LOL'
       with:
