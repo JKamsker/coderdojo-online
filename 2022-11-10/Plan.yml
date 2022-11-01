@@ -22,7 +22,7 @@ workshops:
     description: |
       Hast du dich schon mal gefragt, wie Autos selbständig fahren können? Dahinter steckt etwas, das sich *künstliche Intelligenz* nennt. In diesem Workshop kannst du spielerisch lernen, einem virtuellen Roboter das Herumfahren beizubringen. Die Programmierung erfolgt mit einer Scratch-ähnlichen Blockprogrammiersprache ([GearsBot](https://gears.aposteriori.com.sg/)). Zum Mitmachen brauchst du nur einen Internetbrowser (idealerweise Chrome).
 
-      **Dieser Workshop findet in Kooperation mit der [österreichischen Computergesellschaft (OCG)](https://www.ocg.at/) statt** und wird von Gastmentoren durchgeführt.
+      **Dieser Workshop findddet in Kooperation mit der [österreichischen Computergesellschaft (OCG)](https://www.ocg.at/) statt** und wird von Gastmentoren durchgeführt.
     prerequisites: |
       - Etwas Erfahrung mit Scratch oder Programmiersprachen
       - Software für die Teilnahme an Online CoderDojos ([Anleitung](https://linz.coderdojo.net/online-coderdojo-tipps.html))
@@ -39,7 +39,7 @@ workshops:
     description: |
       Als Vorbereitung für Silvester werden wir uns ansehen wie man auch virtuell ein großartiges Feuerwerk in Minecraft mit ScriptCraft zusammenbekommt!
 
-      **Die Silvester-Special Workshops zum Thema Feuerwerk werden in Zusammenarbeit und auf Initiative des Innovationshauptplatzes Linz durchgeführt.**
+      **Die Silvester-Special Workshops zum Thema Feuerwerk werden in Zusammenarbeit und auf Initiative des Innovationshauptplatzes Linz durchgeführt.** die Workshops werden von Gastmentoren durchgeführt.
     prerequisites: |
       - Eine Installierte **Version von Minecraft Java Edition 1.17.1**❗❗❗
     mentors:
@@ -56,7 +56,7 @@ workshops:
       In dieser Workshopserie sedshen wir uns an, wie [Microcontroller](https://de.wikipedia.org/wiki/Mikrocontroller) funktionieren und wie sie mit der [Assemblersprache](https://de.wikipedia.org/wiki/Assemblersprache) programmiert werden. Als konkretes Beispiel bauen wir im Browser einen Emulator für den [ULP (Ultra Low Power) Coprozessor](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/api-guides/ulp.html) des [ESP32](https://www.espressif.com/en/products/socs/esp32). Dieser Coprozessor eignet sich ideal für den Einstieg in die Welt der Assemblerprogrammierung, weil er sehr einfach aufgebaut ist und einen stark reduzierten [Befehlssatz](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/api-guides/ulp_instruction_set.html) besitzt.
       Dieses Mal werden wir ...
       - uns ansehen wie ssMicrocont ssroller aufgebaut sind
-      - eine grafische Benutzeroberfläche für den Emulator bauen
+      - eine grafische Benutzeroberfläche für den Emul ator bauen 
     prerequisites: |
       - etwas Programmierderfahrung mit HTML, CSS und JavaScript
       - Interesse an Computerhardware
