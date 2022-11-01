@@ -19,6 +19,11 @@ keywords:
     Thumbnail: "https://miro.medium.com/max/816/1*mn6bOs7s6Qbao15PMNRyOA.png"
   -
     keyword: "elektronikbasteln"
+    alias:
+      - "elektronik"
+      - "elektronik basteln"
+      - "ESP32"
+      - "Microcontroller"
     Thumbnail: "https://www.ingenieur.de/wp-content/uploads/2020/12/panthermedia_B24073749_1000x667-313x156.jpg"
   -
     keyword: "css"
@@ -31,4 +36,4 @@ shortCodes:
       - "Scratch Basics"
       - ScratchyScratch
       - GearsBot
-    Thumbnail: "https://de.scratch-wiki.info/wiki/Scratch_Basics"
+    Thumbnail: "https://de.scratch-wiki.info/w/images/e/ed/Scratch_cat_large.png"
